@@ -1,0 +1,4 @@
+pyomo
+pandas
+idaes-pse
+ipykernel
